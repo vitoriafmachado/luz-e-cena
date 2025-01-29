@@ -3,17 +3,14 @@ Layout Flexível com Flexbox
 
 Este projeto demonstra o uso das propriedades do CSS Flexbox para criar layouts responsivos e flexíveis. Abaixo estão as propriedades utilizadas e como cada uma delas pode ser aplicada para controlar o layout dos elementos.
 
-
+<br>
 
 <div style="text-align: center; position: relative; display: inline-block;">
   <!-- Imagem maior -->
-  <img src="./assets/Captura de tela 2025-01-27 164909.png" alt="Imagem Maior" style="width: 500px; border-radius: 10px;">
-  
-  <!-- Imagem menor sobreposta -->
-  <img src="./assets/Captura de tela 2025-01-27 164923.png" alt="Imagem Menor" style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); width: 150px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);">
-</div>
+  <img src="./images/Banner.png" alt="Imagem Maior" style="width: 80%; max-width: 800px  border-radius: 10px;">
 
-<br>
+
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -86,6 +83,20 @@ Este projeto demonstra o uso das propriedades do CSS Flexbox para criar layouts 
     <li><code>wrap</code>: Os itens quebram a linha quando necessário.</li>
     <li><code>wrap-reverse</code>: Quebra a linha, mas inverte a ordem dos itens.</li>
   </ul>
+  
+  <br>
+
+<details>
+  <summary>🍿 Veja o Projeto</summary>
+  <p>Confira o projeto completo e interativo clicando no link abaixo:</p>
+  <a href="URL_DO_SEU_PROJETO" target="_blank">Clique aqui para ver o projeto!</a>
+</details>
+
+
+<details>
+  <summary> instrutora </summary>
+  <p> Monica Hillman - Alura</p>
+</details>
 
 
 
