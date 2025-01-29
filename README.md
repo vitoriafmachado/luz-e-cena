@@ -83,20 +83,37 @@ Este projeto demonstra o uso das propriedades do CSS Flexbox para criar layouts 
     <li><code>wrap</code>: Os itens quebram a linha quando necessário.</li>
     <li><code>wrap-reverse</code>: Quebra a linha, mas inverte a ordem dos itens.</li>
   </ul>
-  
-  <br>
+</details>
 
+<br>
+
+# 🎬 Veja o Projeto Completo
 <details>
   <summary>🍿 Veja o Projeto</summary>
-  <p>Confira o projeto completo e interativo clicando no link abaixo:</p>
-  <a href="URL_DO_SEU_PROJETO" target="_blank">Clique aqui para ver o projeto!</a>
+  Confira o projeto completo e interativo clicando no link abaixo:
+  
+  [Clique aqui para ver o projeto!](https://vitoriafmachado.github.io/luz-e-cena/)
 </details>
+
 
 
 <details>
-  <summary> instrutora </summary>
-  <p> Monica Hillman - Alura</p>
+  <summary> Instrutora</summary>
+  
+  📚 [Desenvolvido em aulas na Alura](https://cursos.alura.com.br/course/css-posicionando-elementos-flexbox)  
+  👩‍💻 **Mônica Mazzochi Hillman**
 </details>
+
+
+
+##  Sobre o Projeto  
+
+Obrigada por conferir meu projeto!  
+Se gostou, não esqueça de deixar uma ⭐ no repositório!  
+
+👩‍💻 **Desenvolvido por Vitória Machado**  
+🔗 [Meu GitHub](https://github.com/vitoriafmachado)
+
 
 
 
